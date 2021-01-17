@@ -1,3 +1,4 @@
 # Game-of-Life-GUI
 
-# Designed on Repl
+Initially created and designed on Netbeans 
+Later moved onto Repl.it
